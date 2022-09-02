@@ -2,6 +2,9 @@
 .vscode
 .DS_Store
 
+# secrets
+#.env UNCOMMENT
+
 # dependancies
 node_modules
 
