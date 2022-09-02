@@ -19,8 +19,3 @@ nest/upload/*
 # Exceptions
 !.exception.git
 
-# clucien ^^
-TRANSCENDANCE-MS.numbers
-cleanDocker.sh
-*.subject.pdf
-correction*.pdf
