@@ -1,0 +1,26 @@
+# hidden
+.vscode
+.DS_Store
+
+# dependancies
+node_modules
+
+# builds
+dist
+build
+
+# debug
+*.log
+
+# data
+db-data
+nest/upload/*
+
+# Exceptions
+!.exception.git
+
+# clucien ^^
+TRANSCENDANCE-MS.numbers
+cleanDocker.sh
+*.subject.pdf
+correction*.pdf
